@@ -1,6 +1,6 @@
 # 软件开发
 
-### 目的： React 实战、Ts 实战、 Es6 实战
+### 目的： React、Redux、Ts、 Es6 实战
 
 ### 仿照项目： XX-Box Web端
 
