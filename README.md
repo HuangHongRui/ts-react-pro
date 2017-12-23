@@ -1,3 +1,26 @@
+# 软件开发
+
+### 目的： React 实战、Ts 实战、 Es6 实战
+
+### 仿照项目： XX-Box Web端
+
+### 开发时间：下班时间
+
+# 参考网站：
+|官网|中网|
+|--|--|
+|[React官网](https://reactjs.org/)|    [React中网](https://doc.react-china.org/)|
+|[TypeScript官网](http://www.typescriptlang.org/index.html) | [TypeScript中网](https://www.tslang.cn/index.html)|
+|[Webpack官网](https://webpack.js.org/) | [Webpack中网](https://doc.webpack-china.org/)|
+|[Redux官档](https://redux.js.org/) | [Redux中档](http://cn.redux.js.org/)|
+
+
+
+
+
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
