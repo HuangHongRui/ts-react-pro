@@ -5,6 +5,7 @@
   "homepage": "http://work.luckyman.xyz/build",
   "dependencies": {
     "@types/lodash": "^4.14.91",
+    "antd": "^3.0.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts-ts": "2.8.0"

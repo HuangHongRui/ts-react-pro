@@ -1,3 +1,3 @@
-import view from './nav'
+import view from './nav';
 
-export {view}
+export {view};

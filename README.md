@@ -1,19 +1,22 @@
 # 软件开发
 
-### 目的： React、Redux、Ts、 Es6 实战
+### 目的： React、Redux、TypeScript、Es6、Sass 实战
 
-### 仿照项目： XX-Box Web端
+### 仿照项目： XXXBox Web端
 
 ### 开发时间：下班时间
+
+### 地址：[Link.](https://github.com/HuangHongRui/ts-react-pro)
 
 # 参考网站：
 |官网|中网|
 |--|--|
 |[React官网](https://reactjs.org/)|    [React中网](https://doc.react-china.org/)|
+|[Redux官档](https://redux.js.org/) | [Redux中档](http://cn.redux.js.org/)|
 |[TypeScript官网](http://www.typescriptlang.org/index.html) | [TypeScript中网](https://www.tslang.cn/index.html)|
 |[Webpack官网](https://webpack.js.org/) | [Webpack中网](https://doc.webpack-china.org/)|
-|[Redux官档](https://redux.js.org/) | [Redux中档](http://cn.redux.js.org/)|
-
+|[Ant Design UI 官网](https://ant.design/docs/react/introduce-cn)|[]()|
+|[Sass官网](http://sass-lang.com/)|[阮一峰Sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)|
 
 
 
