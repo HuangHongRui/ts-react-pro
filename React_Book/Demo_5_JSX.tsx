@@ -7,24 +7,30 @@ import './index.css'
 
 class Header extends Component {
   render () {
+    const isSure = true
     return (
-
-      // <div>
-      //   <h1 className = 'title'>React 小书</h1>
-      // </div>
+      <div>
+        {
+          isSure
+            ? <strong>True</strong>
+            : <p>False</p>
+        }
+        <h1 className = 'title'>React 小书</h1>
+      </div>
 
 /**********************编译以后************************************/
 
-      React.createElement(
-        "div",
-        "null",
-        React.createElement(
-          "h1",
-          {className : 'title'},
-          "React Book"
-        )
-      )
+ /*     React.createElement(
+ /*       "div",
+ /*       "null",
+ /*       React.createElement(
+ /*         "h1",
+ /*         {className : 'title'},
+ /*         "React Book"
+ /*       )
+ /*     )
 
+/*****************************************************************/
 //React.createElement 会构建一个 JavaScript 对象来描述你 HTML 结构的信息，包括标签名、属性、还有子元素等。这样的代码就是合法的 JavaScript 代码了。所以使用 React 和 JSX 的时候一定要经过编译的过程。
 
 // 过程： JSX |Babel编译+React.js构造|> JS对象结构 |ReactDOM.render|> DOM元素 > 插入页面
