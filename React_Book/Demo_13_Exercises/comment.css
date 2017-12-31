@@ -1,0 +1,51 @@
+.wrapper {
+    width: 500px;
+    margin: 10px auto;
+    font-size: 14px;
+    background-color: #fff;
+    border: 1px solid #f1f1f1;
+    padding: 20px;
+}
+
+.papa {
+    overflow: auto;
+    border-bottom: dotted #ddd .5px;
+}
+.lr {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1vh 1vw;
+}
+.lr span{
+    display: flex;
+    flex: 1;
+    flex-basis: 1vw;
+}
+.lr > input,
+.lr > textarea {
+    border-radius: 5px;
+    display: flex;
+    flex: 3;
+}
+.btn {
+    position: relative;
+    float: right;
+}
+.btn>input {
+    background-color: #39CCCC;
+    text-align: center;
+}
+.commentDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: solid .5px #ddd;
+}
+.commentName span {
+    color: #39CCCC ;
+}
+.commentName {
+    margin:  2vh 3vw;
+}
