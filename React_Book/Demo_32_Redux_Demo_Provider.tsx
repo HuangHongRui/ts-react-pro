@@ -1,7 +1,10 @@
 /***************************************************************************/   
-/*/ 
+/*  
+/*  https://github.com/HuangHongRui/redux-demo-app/tree/master/src/List/Demo8
+/*  
 /*  要把 context 相关的代码从所有业务组件中清除出去，
 */  现在的代码里面还有一个地方是被污染的。那就是 src/index.js 里面的 Index：
+
 
 ...
 class Index extends Component {
